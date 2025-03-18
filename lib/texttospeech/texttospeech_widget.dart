@@ -225,7 +225,7 @@ class _TexttospeechWidgetState extends State<TexttospeechWidget> {
                             padding: EdgeInsetsDirectional.fromSTEB(
                                 0.0, 4.0, 0.0, 0.0),
                             child: Text(
-                              'Take Photo',
+                              'Take Photoo',
                               style: FlutterFlowTheme.of(context)
                                   .bodySmall
                                   .override(
