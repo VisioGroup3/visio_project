@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "757551046475",
+    "project_id": "visio-6sum1m",
+    "storage_bucket": "visio-6sum1m.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757551046475:android:093f91915407164c2712ce",
+        "android_client_info": {
+          "package_name": "com.mycompany.visio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB23D5LGUyFow17CgTcPRXSZxuB-BdoOFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
